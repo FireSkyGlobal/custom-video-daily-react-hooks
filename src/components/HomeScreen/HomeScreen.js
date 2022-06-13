@@ -10,7 +10,7 @@ export default function HomeScreen({ createCall, startHairCheck }) {
 
   return (
     <div className="home-screen">
-      <button onClick={startDemo}>Start Class!</button>
+      <button onClick={startDemo}>Create your Classroom!</button>
     </div>
   );
 }
